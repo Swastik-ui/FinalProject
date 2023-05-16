@@ -1,8 +1,5 @@
 import cv2 as cv
 import numpy as np
-import sys
-
-sys.path.append('/usr/local/lib/python2.7/site-packages')
 from matplotlib import pyplot as plt
 
 
